@@ -58,7 +58,7 @@
     <Compile Include="URLParam.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\NatureFrameWork\Nature.Common\Nature.Common.csproj">
+    <ProjectReference Include="..\Nature.Common\Nature.Common.csproj">
       <Project>{55DC3025-75A9-441C-9D75-7652E46900F5}</Project>
       <Name>Nature.Common</Name>
     </ProjectReference>
